@@ -1,0 +1,20 @@
+{
+  "name": "test-comparaonline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "after-30-days": "node main.js > products_after_30_days.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtomachine/test-comparaonline.git"
+  },
+  "author": "Cristobal Valenzuela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xtomachine/test-comparaonline/issues"
+  },
+  "homepage": "https://github.com/xtomachine/test-comparaonline#readme"
+}
