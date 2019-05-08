@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/xtomachine/test-comparaonline/issues"
   },
-  "homepage": "https://github.com/xtomachine/test-comparaonline#readme"
+  "homepage": "https://github.com/xtomachine/test-comparaonline#readme",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
 }
